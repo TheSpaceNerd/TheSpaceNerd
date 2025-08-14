@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Space!
-- 👀 I’m interested in coding and being creative
-- 🌱 I’m currently learning python
+- 👋 Hi, i'm Spaceuwu (space :P)
+- 👀 I'm interested in art and making websites. I also play 2b yippeee
+- 🌱 I’m currently learning HTML
 
 
 <!---
